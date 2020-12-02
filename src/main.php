@@ -56,7 +56,7 @@ function validation($data) {
 			</tr>
 			<tr>
 				<td></td>
-				<td><input type="submit" value="submit"></td>
+				<td><input name="submit" type="submit" value="submit"></td>
 			</tr>
 		</form>
 	</body>
