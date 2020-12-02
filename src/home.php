@@ -16,7 +16,7 @@ session_start();
 			</tr>
 			<tr>
 				<td></td>
-				<td><input type="submit" value="LOGOUT"></td>
+				<td><input name="submit" type="submit" value="LOGOUT"></td>
 			</tr>
 		</form>
 	</body>
